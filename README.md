@@ -1,3 +1,3 @@
 # hello-world
 testing
-  THis project is just for testinfg out GITHub
+  THis project is just for testing out GITHub
